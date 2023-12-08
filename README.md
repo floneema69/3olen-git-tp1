@@ -27,8 +27,8 @@
 
 - [x] **.gitignore** : Initialisation du `.gitignore`.
 - [x] **README.md** : Initialisation du `README.md`.
-- [ ] **.editorconfig** : Initialisation du `.editorconfig`.
-- [ ] **Hooks** : N'autoriser qu'un commit par branche.
+- [X] **.editorconfig** : Initialisation du `.editorconfig`.
+- [X] **Hooks** : N'autoriser qu'un commit par branche.
 
 
 ## 🐕‍🦺 Retours d'expérience
