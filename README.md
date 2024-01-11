@@ -29,6 +29,8 @@
 - [x] **README.md** : Initialisation du `README.md`.
 - [X] **.editorconfig** : Initialisation du `.editorconfig`.
 - [X] **Hooks** : N'autoriser qu'un commit par branche.
+- [x] Utilisation des scripts versionnés.
+- [ ] Automatiser la configuration.
 
 
 ## 🐕‍🦺 Retours d'expérience
